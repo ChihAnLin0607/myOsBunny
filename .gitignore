@@ -1,0 +1,8 @@
+
+*.o
+*.hrb
+*.img
+*.bin
+lst
+hrb
+mountdir
